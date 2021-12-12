@@ -1,0 +1,23 @@
+[33mcommit 245f346ba87dd147fe697e7aeb0174bbc84f7a7b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Ronnie Tjandra <ok.ronnie@yahoo.com>
+Date:   Sun Dec 12 12:39:13 2021 +0700
+
+    updated test.txt
+
+[33mcommit dd8a2ef02b01d10d0698ab2bb83d517a7f0c5c52[m[33m ([m[1;32mfeature[m[33m)[m
+Author: Ronnie Tjandra <ok.ronnie@yahoo.com>
+Date:   Sun Dec 12 12:35:03 2021 +0700
+
+    added new feature
+
+[33mcommit ff33e9441d2622a6ece51c399c7822d26fbc3d89[m
+Author: Ronnie Tjandra <ok.ronnie@yahoo.com>
+Date:   Sun Dec 12 09:42:53 2021 +0700
+
+    changed test.txt and added second-commit.txt
+
+[33mcommit 992182457092e7b694df399d2fbb663bebfd4045[m
+Author: Ronnie Tjandra <ok.ronnie@yahoo.com>
+Date:   Sun Dec 12 09:38:57 2021 +0700
+
+    added text.txt file
